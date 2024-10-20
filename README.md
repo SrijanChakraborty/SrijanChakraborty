@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @SrijanChakraborty
-- 👀 I’m interested in big data analysis and python and R
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to jobs in big data analysis. I am fresher. passout batch in 2022.
-- 📫 How to reach me ...
-- Email : srijan833shakraborty@gmail.com
-- Linkdin Profile :https://www.linkedin.com/in/srijan-chakraborty-72aaa41b7/
-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+# Hi there, I'm Srijan Chakraborty! 👋
 
+I'm a fresher in AI and ML development, excited to build intelligent solutions and explore cutting-edge technologies!
 
-<!---
-SrijanChakraborty/SrijanChakraborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-chakraborty-72aaa41b7/)
+
+## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD43B?style=for-the-badge&logo=machine-learning&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/AI-31A8FF?style=for-the-badge&logo=AI&logoColor=white)
+
+## 📚 Projects
+- **[Movie Recommender System](https://github.com/SrijanChakraborty/Movie-Recommender-System)**: A machine learning project that recommends movies based on user preferences.
+- **[Personalized Medicine Recommending System](https://github.com/SrijanChakraborty/Personalized-Medicine-Recommender)**: AI system to recommend personalized medicines using ML algorithms.
+
+## 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-chakraborty-72aaa41b7/)
