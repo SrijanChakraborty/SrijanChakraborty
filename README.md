@@ -11,7 +11,7 @@ I'm a fresher in AI and ML development, excited to build intelligent solutions a
 
 ## 📚 Projects
 
-### ![Movie Recommender Logo](https://raw.githubusercontent.com/SrijanChakraborty/<repository-name>/main/assets/logo.png) [Movie Recommender System](https://github.com/SrijanChakraborty/Movie-Recommender-System)
+### [![Movie Recommender](https://img.shields.io/badge/Movie%20Recommender-System-orange?style=for-the-badge)](https://github.com/SrijanChakraborty/Movie-Recommender-System) [Movie Recommender System](https://github.com/SrijanChakraborty/Movie-Recommender-System)
 
 This project is a machine learning-based recommendation engine that suggests movies to users based on their preferences. Using a collaborative filtering algorithm, the system analyzes user behavior and movie ratings to provide personalized movie recommendations. It handles large datasets efficiently and is scalable for real-world applications. The system also incorporates content-based filtering to recommend movies based on genres, actors, and directors. This project demonstrates proficiency in data preprocessing, similarity measures, and recommendation techniques.
 
