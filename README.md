@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - Email : srijan833shakraborty@gmail.com
 - Linkdin Profile :https://www.linkedin.com/in/srijan-chakraborty-72aaa41b7/
+- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 <!---
 SrijanChakraborty/SrijanChakraborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
