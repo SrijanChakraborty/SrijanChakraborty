@@ -1,6 +1,6 @@
 # Hi there, I'm Srijan Chakraborty! 👋
 
-I'm a fresher in AI and ML development, excited to build intelligent solutions and explore cutting-edge technologies!
+I am a passionate **AI and ML Development Fresher** eager to explore cutting-edge technologies. I utilize my **3+ years of experience in Android development** to specialize in the seamless integration and deployment of intelligent systems into user-friendly mobile environments. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-c-72aaa41b7/)
 
