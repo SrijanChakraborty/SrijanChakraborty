@@ -2,7 +2,7 @@
 
 I'm a fresher in AI and ML development, excited to build intelligent solutions and explore cutting-edge technologies!
 
-[![LinkedIn](https://www.linkedin.com/in/srijan-c-72aaa41b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-c-72aaa41b7/)
 
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,4 +33,4 @@ An **Android-specific** application designed to help parents monitor and manage 
 This system uses machine learning to recommend personalized medicines for patients based on their medical history, genetic information, and other health-related factors. It integrates healthcare data to train models that can predict the most effective treatments for individual patients. The goal is to enhance healthcare by providing tailored medication recommendations, improving patient outcomes, and minimizing side effects. The project involves advanced techniques like feature selection, data analysis, and model evaluation. Explore the project [here](https://github.com/SrijanChakraborty/Personalized-Medicine-Recommender).
 
 ## 📫 Get in Touch
-[![LinkedIn](https://www.linkedin.com/in/srijan-c-72aaa41b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-c-72aaa41b7/)
