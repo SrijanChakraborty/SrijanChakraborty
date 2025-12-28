@@ -47,17 +47,8 @@ I specialize in building **intelligent**, **user-friendly**, and **high-performa
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrijanChakraborty&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=SrijanChakraborty&theme=tokyonight&hide_border=false" height="180em" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanChakraborty&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" alt="Top Languages"/>
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SrijanChakraborty&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=SrijanChakraborty&theme=shadow_blue&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanChakraborty&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact) this is show more gorgius
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SrijanChakraborty&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
