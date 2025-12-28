@@ -23,8 +23,6 @@ I specialize in building **intelligent**, **user-friendly**, and **high-performa
 🔹 Delivering seamless and scalable **mobile experiences**
 
 ---
-
-## 🌐 Socials:
 ## 🌐 Socials  
 
 <p align="center">
